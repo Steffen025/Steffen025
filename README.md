@@ -48,9 +48,9 @@ I help **sovereignty-focused businesses** build AI systems they own.
 
 | Service | What You Get | Investment |
 |---------|--------------|------------|
-| **PAI Implementation** | 3-month setup, YOUR infrastructure, lifetime ownership | €9-25k setup<br>€300-800/mo subscription |
+| **Local AI Infrastructure** | Complete stack (Odoo, n8n, PostgreSQL, Qdrant, Monitoring, 20-30+ workflows), YOUR infrastructure, lifetime ownership | €9-25k setup<br>€300-800/mo subscription |
 | **AI Consulting** | Strategy, architecture, roadmap | €300/hour |
-| **Custom Workflows** | Built on n8n + PAI-OpenCode | Project-based |
+| **Custom Integrations** | Connect your existing tools to the infrastructure | Project-based |
 
 **Why different?**
 
@@ -121,23 +121,32 @@ Most AI tools send your data to the cloud.
 
 ---
 
-## Tech Stack
+## Tech Stack (Full)
 
 **AI & Automation:**  
-`n8n` · `OpenCode` · `PAI-OpenCode` · `LangChain` · `Anthropic Claude` · `OpenAI`
+`n8n` · `OpenCode` · `PAI-OpenCode` · `Anthropic Claude` · `OpenAI` · `Ollama` · `OpenRouter`
+
+**Business Systems:**  
+`Odoo 18 CE` · `Clerk` · `Resend` · `Cal.com`
 
 **Infrastructure:**  
-`Hetzner` · `Docker` · `PostgreSQL` · `Cloudflare Workers` · `VitePress`
+`Hetzner` · `Docker` · `Nginx` · `PostgreSQL` · `Qdrant` · `Cloudflare Workers` · `Cloudflare R2`
+
+**Monitoring & DevOps:**  
+`Uptime Kuma` · `Grafana` · `Git` · `GitHub Actions`
+
+**Frontend:**  
+`VitePress` · `React` · `Astro` · `Tailwind CSS`
 
 **Languages:**  
-`TypeScript` · `Python` · `Markdown`
+`TypeScript` · `Python` · `Markdown` · `Bash`
 
 ---
 
 ## Current Focus (2026)
 
 🚀 **Speaking at AI Summit Hamburg** (Jan 30-31, 2026)  
-🏗️ **Implementing PAI systems** for DACH companies  
+🏗️ **Implementing Local AI Infrastructure** for DACH companies  
 📈 **Building jeremAIah Life OS** - productizing my infrastructure  
 📝 **Content creation** - The Middle Way philosophy
 
@@ -152,7 +161,7 @@ LAYER 1: jeremAIah Life OS (Long-term Vision)
 └─ Foundation for everything else
 
 LAYER 2: Client Implementation (Immediate Revenue)
-├─ Done-With-You PAI setups (€9-25k)
+├─ Done-With-You Local AI Infrastructure (€9-25k)
 ├─ Funds Layer 1 development
 └─ Case studies for credibility
 
