@@ -78,16 +78,22 @@ Currently obsessed with:
 
 ## Tech I Use
 
-**AI:** Claude | OpenRouter | Ollama | n8n
-**Infrastructure:** Hetzner | Docker | PostgreSQL | Qdrant
-**Dev:** TypeScript | Bun | Bash
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
 
 ---
 
-## Elsewhere
+## Connect
 
-- [aiscales.biz](https://aiscales.biz)
-- [LinkedIn](https://www.linkedin.com/in/steffen-zellmer-81b938175/)
+[![Website](https://img.shields.io/badge/aiscales.biz-000000?style=flat&logo=safari&logoColor=white)](https://aiscales.biz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steffen-zellmer-81b938175/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Steffen025)
 
 ---
 
