@@ -16,10 +16,10 @@ Not because I have all the answers - but because the questions fascinate me:
 
 This isn't my invention - it's a marriage of two brilliant projects:
 
-- **[Fabric](https://github.com/danielmiessler/fabric)** by Daniel Miessler - the pattern system that made AI actually useful
+- **[PAI (Personal AI Infrastructure)](https://github.com/danielmiessler/PAI)** by Daniel Miessler - the vision of agentic AI that magnifies human capabilities
 - **[OpenCode](https://github.com/opencode-ai/opencode)** - the terminal-native AI coding assistant
 
-My contribution? Bringing them together. Fabric's wisdom patterns inside OpenCode's developer experience. Best of both worlds.
+My contribution? Bringing them together. PAI's philosophy of sovereign, personal AI inside OpenCode's developer experience. Best of both worlds.
 
 **Why it matters:** Self-hosted AI that runs on YOUR machine. No cloud dependency. No vendor lock-in.
 
